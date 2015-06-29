@@ -20,6 +20,7 @@
 - - Why does FF take so much idle CPU, why don't you let websites/webapps sleep? Why do I as a user do not have control?
 
 - ? Why is there no FF theme for Chromium?
+- ? Default: disable third party cookies @ThomasWaldmann
 
 - -> Focus on bringing tools to developers (FF DEV bravo!).
 - -> Make FxOS a operation system where average users can create and exchange the UI. Bring diversity to the field! Make diversity and customizability the core tenent.
