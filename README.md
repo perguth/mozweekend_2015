@@ -5,6 +5,7 @@
 - - Chrome will reload on it's own, when server was unavailable (important for `--app`s)
 - + It's easier to pin certificates.
 - + There is a tab overview.
+- - Why is there no search feature in settings?
 - - The tab overview makes FF even more slow, if its big.
 - - The tab overview is a UI/UX disaster.
 - + There is FF sync, fully open source, back/front.
