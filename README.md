@@ -19,6 +19,7 @@
 - - Why do icons suck so much with FF compared to Chrome? (Place bookmark on the homescreen)
 - - Why does FF Dev tools still feel so clumsy?!
 - - Why does FF take so much idle CPU, why don't you let websites/webapps sleep? Why do I as a user do not have control?
+- - Developer does not suggest possible values. Only completion. (Unlike Chromium)
 
 - ? Why is there no FF theme for Chromium?
 - ? Default: disable third party cookies @ThomasWaldmann
