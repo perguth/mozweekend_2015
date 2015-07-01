@@ -20,6 +20,7 @@
 - - Why does FF Dev tools still feel so clumsy?!
 - - Why does FF take so much idle CPU, why don't you let websites/webapps sleep? Why do I as a user do not have control?
 - - Developer does not suggest possible values. Only completion. (Unlike Chromium)
+- - Restoring old states is such a pain. I often have to fiddle with those `sessionrestore.js` files because `about:sessionrestore` does not work right.
 
 - ? Why is there no FF theme for Chromium?
 - ? Default: disable third party cookies @ThomasWaldmann
