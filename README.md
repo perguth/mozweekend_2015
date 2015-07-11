@@ -31,3 +31,10 @@
 - -> Bring FF sync to Chrome. That would be nice.
 - -> Push culture forward by enabling crypto tools and device access.
 - + Reload icon in context menu
+
+
+- Why not only the `awesomebar`? @UI
+- Why not *make* the developer mode a kind of IDE with which we can write live changes to our source files. @dev
+- Why is there this awkward pause when loading a page (compared to Chromium)? @speed
+- What about the browser fingerprint?! @privacy
+- 
