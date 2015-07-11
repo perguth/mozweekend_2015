@@ -15,7 +15,7 @@
 ## General
 
 - Let users decide which data to share/escalate based on descisions -> Those who share, will share a lot.
-- :sparkling: remotestorage.io etc. maybe a way to get to "server side"?
+- :sparkles: remotestorage.io etc. maybe a way to get to "server side"?
 - :-1: whatcanidoformozilla -> what can I do *with* Mozilla. "for" is a bit the wrong attitude here, imho.
 - :-1: Mozilla supports site old questions where one can not longer ammend. Why are they there? For me it's just frustrating. At least there should be a way to open a related and new ticket.
 
