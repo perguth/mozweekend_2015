@@ -53,8 +53,8 @@
 - :-1: Why does FF Dev tools still feel so clumsy?!
 - :-1: Developer does not suggest possible values. Only completion. (Unlike Chromium)
 - :question: Why not *make* the developer mode a kind of IDE with which we can write live changes to our source files. @dev
-- :sparkling: Easier data storage/attachment to ff profile
-- :sparkling: Token cloud to easy install extensions/config ua.
+- :sparkles: Easier data storage/attachment to ff profile
+- :sparkles: Token cloud to easy install extensions/config ua.
 
 
 ## Privacy
