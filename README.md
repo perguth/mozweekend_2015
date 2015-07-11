@@ -52,7 +52,7 @@
 - :sparkles: What about the browser fingerprint?! @privacy
 - :sparkles: Default: disable third party cookies @ThomasWaldmann
 - :sparkles: Push culture forward by enabling crypto tools and device access.
-
+- :sparkles: Use Moxies `Convergence` model for extension signing. @security
 
 ## Community
 
