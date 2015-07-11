@@ -1,23 +1,6 @@
 # Mozweekend 2015
 
-
-* Germany, discoursive process
-- Newsletter, Blogs
-- Academia *papers)
-* Userbase (developers as core?)
-- Speed, speed, speed
-- Tooling/Interop
-- Broaden the term: devs should also include guys speading/installing.
-
-
-- Let users decide which data to share/escalate based on descisions -> Those who share, will share a lot.
-- Differentiate no central answer.
-
-- remotestorage.io etc. maybe a way to get to "server side"?
-Care more/big data/inclusion of the people that spread the software
-- Easier data storage/attachment to ff profile
-- :sparkling: Token cloud to easy install extensions/config ua.
-
+*Thoughts and ideas before and while the conference.*
 
 - [Speed](#speed)
 - [UI/UX](#uiux)
@@ -27,6 +10,12 @@ Care more/big data/inclusion of the people that spread the software
 - [Voice Recognition](#voice-recognition)
 - [FxOS](#fxos)
 - [Open Web](#open-web)
+
+
+## General
+
+- Let users decide which data to share/escalate based on descisions -> Those who share, will share a lot.
+- :sparkling: remotestorage.io etc. maybe a way to get to "server side"?
 
 
 ## Speed
@@ -62,6 +51,8 @@ Care more/big data/inclusion of the people that spread the software
 - : Why does FF Dev tools still feel so clumsy?!
 - :-1: Developer does not suggest possible values. Only completion. (Unlike Chromium)
 - :question: Why not *make* the developer mode a kind of IDE with which we can write live changes to our source files. @dev
+- :sparkling: Easier data storage/attachment to ff profile
+- :sparkling: Token cloud to easy install extensions/config ua.
 
 
 ## Privacy
@@ -89,8 +80,22 @@ Care more/big data/inclusion of the people that spread the software
 - :sparkles: Make FxOS a operation system where average users can create and exchange the UI. Bring diversity to the field! Make diversity and customizability the core tenent.
 - :sparkles: I would like to have a easy to use message bus I can pilot from anywhere (especially one-page apps).
 - :sparkles: IPFS integration for file/app transferance.
+- :question: New core development process?
+
 
 ## Open Web
 
 - :sparkles: Make it easy to shift between OSS browsers. -> Make FF Sync work across platforms.
 - :sparkles: Have some easy "office central" extension deployment. Stats building, message queue (see other ticket).
+
+
+## Notes
+
+* Germany, discoursive process
+- Newsletter, Blogs
+- Academia *papers)
+* Userbase (developers as core?)
+- Speed, speed, speed
+- Tooling/Interop
+- Broaden the term: devs should also include guys speading/installing.
+- Differentiate no central answer.
