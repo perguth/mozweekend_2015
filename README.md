@@ -1,5 +1,14 @@
 # Mozweekend 2015
 
+- [Speed](#speed)
+- [UI/UX](#uiux)
+- [Developer](#developer)
+- [Privacy](#privacy)
+- [Community](#community)
+- [Voice Recognition](#voice-recognition)
+- [FxOS](#fxos)
+
+
 ## Speed
 - :-1: The tab overview makes FF even more slow, if its big.
 - :-1: Why does FF take so much idle CPU, why don't you let websites/webapps sleep?
