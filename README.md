@@ -1,6 +1,6 @@
 # Mozweekend 2015
 
-*Thoughts and ideas before and while the conference.*
+*Thoughts and ideas before and during the conference.*
 
 - [Speed](#speed)
 - [UI/UX](#uiux)
