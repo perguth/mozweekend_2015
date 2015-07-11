@@ -88,7 +88,7 @@ Care more/big data/inclusion of the people that spread the software
 
 - :sparkles: Make FxOS a operation system where average users can create and exchange the UI. Bring diversity to the field! Make diversity and customizability the core tenent.
 - :sparkles: I would like to have a easy to use message bus I can pilot from anywhere (especially one-page apps).
-
+- :sparkles: IPFS integration for file/app transferance.
 
 ## Open Web
 
