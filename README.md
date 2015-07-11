@@ -1,5 +1,24 @@
 # Mozweekend 2015
 
+
+* Germany, discoursive process
+- Newsletter, Blogs
+- Academia *papers)
+* Userbase (developers as core?)
+- Speed, speed, speed
+- Tooling/Interop
+- Broaden the term: devs should also include guys speading/installing.
+
+
+- Let users decide which data to share/escalate based on descisions -> Those who share, will share a lot.
+- Differentiate no central answer.
+
+- remotestorage.io etc. maybe a way to get to "server side"?
+Care more/big data/inclusion of the people that spread the software
+- Easier data storage/attachment to ff profile
+- :sparkling: Token cloud to easy install extensions/config ua.
+
+
 - [Speed](#speed)
 - [UI/UX](#uiux)
 - [Developer](#developer)
@@ -74,3 +93,4 @@
 ## Open Web
 
 - :sparkles: Make it easy to shift between OSS browsers. -> Make FF Sync work across platforms.
+- :sparkles: Have some easy "office central" extension deployment. Stats building, message queue (see other ticket).
