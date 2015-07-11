@@ -7,6 +7,7 @@
 - [Community](#community)
 - [Voice Recognition](#voice-recognition)
 - [FxOS](#fxos)
+- [Open Web](#open-web)
 
 
 ## Speed
