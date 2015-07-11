@@ -16,7 +16,7 @@
 
 - Let users decide which data to share/escalate based on descisions -> Those who share, will share a lot.
 - :sparkling: remotestorage.io etc. maybe a way to get to "server side"?
-
+- :-1: whatcanidoformozilla -> what can I do *with* Mozilla. "for" is a bit the wrong attitude here, imho.
 
 ## Speed
 
