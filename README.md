@@ -91,6 +91,8 @@
 - :sparkles: Have some easy "office central" extension deployment. Stats building, message queue (see other ticket).
 
 
+```md
+
 ## Notes
 
 * Germany, discoursive process
@@ -101,3 +103,7 @@
 - Tooling/Interop
 - Broaden the term: devs should also include guys speading/installing.
 - Differentiate no central answer.
+
+
+
+```
