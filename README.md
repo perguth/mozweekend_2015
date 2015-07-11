@@ -49,8 +49,8 @@
 ## Developer
 
 - :sparkles: There is a `Chrome Dev` on mobile. Where is `FF Dev` on mobile?!
-- :family: Focus on bringing tools to developers (FF DEV bravo!).
-- : Why does FF Dev tools still feel so clumsy?!
+- :+1: Focus on bringing tools to developers (FF DEV bravo!).
+- :-1: Why does FF Dev tools still feel so clumsy?!
 - :-1: Developer does not suggest possible values. Only completion. (Unlike Chromium)
 - :question: Why not *make* the developer mode a kind of IDE with which we can write live changes to our source files. @dev
 - :sparkling: Easier data storage/attachment to ff profile
