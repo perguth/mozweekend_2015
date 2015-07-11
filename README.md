@@ -10,6 +10,7 @@
 
 
 ## Speed
+
 - :-1: The tab overview makes FF even more slow, if its big.
 - :-1: Why does FF take so much idle CPU, why don't you let websites/webapps sleep?
 - :-1: Chrome is faster, especially on mobile.
@@ -17,6 +18,7 @@
 
 
 ## UI/UX
+
 - :+1: It's easier to pin certificates.
 - :+1: There is a tab overview.
 - :-1: Why is there no search feature in settings?
@@ -34,6 +36,7 @@
 
 
 ## Developer
+
 - :sparkles: There is a `Chrome Dev` on mobile. Where is `FF Dev` on mobile?!
 - :family: Focus on bringing tools to developers (FF DEV bravo!).
 - : Why does FF Dev tools still feel so clumsy?!
@@ -42,6 +45,7 @@
 
 
 ## Privacy
+
 - :sparkles: Include Moxies Convergence.
 - :+1: There is FF sync, fully open source, back/front.
 - :sparkles: What about the browser fingerprint?! @privacy
@@ -50,13 +54,22 @@
 
 
 ## Community
+
 - :-1: Mozilla is totally fragmented, not easy for the lurker to get insight. (Oh, that blog exists too?!)
 - :sparkles: Let the user decide how the tab should behave (sleep when not open, cpu share etc)
 
 
 ## Voice Recognition
+
 - :question: Why not use LibriVox ua. for `Speech Corpus`?
 
 
 ## FxOS
+
 - :sparkles: Make FxOS a operation system where average users can create and exchange the UI. Bring diversity to the field! Make diversity and customizability the core tenent.
+- :sparkles: I would like to have a easy to use message bus I can pilot from anywhere (especially one-page apps).
+
+
+## Open Web
+
+- :sparkles: Make it easy to shift between OSS browsers. -> Make FF Sync work across platforms.
