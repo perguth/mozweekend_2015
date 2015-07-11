@@ -90,10 +90,12 @@
 - :sparkles: Make it easy to shift between OSS browsers. -> Make FF Sync work across platforms.
 - :sparkles: Have some easy "office central" extension deployment. Stats building, message queue (see other ticket).
 
+***
 
-```md
 
 ## Notes
+
+```md
 
 * Germany, discoursive process
 - Newsletter, Blogs
