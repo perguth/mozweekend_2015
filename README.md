@@ -11,6 +11,7 @@
 - [FxOS](#fxos)
 - [Open Web](#open-web)
 
+Open bugs can be found on [Bugs Ahoy](http://www.joshmatthews.net/bugsahoy/?).
 
 ## General
 
